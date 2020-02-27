@@ -1,1732 +1,2963 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SPORTV 1 HD">
-    <display-name lang="pt">SPORTV 1 HD</display-name>
+  <channel id="FOX LIFE HD">
+    <display-name lang="pt">FOX LIFE HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="SPORTV 2 HD">
-    <display-name lang="pt">SPORTV 2 HD</display-name>
+  <channel id="LIFETIME HD">
+    <display-name lang="pt">LIFETIME HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="SPORTV 3 HD">
-    <display-name lang="pt">SPORTV 3 HD</display-name>
+  <channel id="VIVA HD">
+    <display-name lang="pt">VIVA HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="FOX SPORTS HD">
-    <display-name lang="pt">FOX SPORTS HD</display-name>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="FOX SPORTS 2 HD">
-    <display-name lang="pt">FOX SPORTS 2 HD</display-name>
+  <channel id="CINEMAX HD">
+    <display-name lang="pt">CINEMAX HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="ESPN BRASIL">
-    <display-name lang="pt">ESPN BRASIL</display-name>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="ESPN 1 HD">
-    <display-name lang="pt">ESPN 1 HD</display-name>
+  <channel id="FX HD">
+    <display-name lang="pt">FX HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20200227010000 -0400" stop="20200227013000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Baú do Esporte</title>
+  <channel id="HBO PLUS HD">
+    <display-name lang="pt">HBO PLUS HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2 HD">
+    <display-name lang="pt">HBO 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO FAMILY HD">
+    <display-name lang="pt">HBO FAMILY HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="pt">HBO HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO SIGNATURE HD">
+    <display-name lang="pt">HBO SIGNATURE HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20200227001000 -0400" stop="20200227005800 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227013000 -0400" stop="20200227025000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200227005800 -0400" stop="20200227023900 -0400" channel="FOX LIFE HD">
+    <title lang="pt">O Diário de Bridget Jones</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227025000 -0400" stop="20200227035000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200227023900 -0400" stop="20200227032500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Remedy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227035000 -0400" stop="20200227045000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+  <programme start="20200227032500 -0400" stop="20200227041300 -0400" channel="FOX LIFE HD">
+    <title lang="pt">The Resident</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227045000 -0400" stop="20200227055000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200227041300 -0400" stop="20200227050200 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Entre Canibais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227055000 -0400" stop="20200227065000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+  <programme start="20200227050200 -0400" stop="20200227055000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Entre Canibais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227065000 -0400" stop="20200227075000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200227055000 -0400" stop="20200227063500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227075000 -0400" stop="20200227084500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200227063500 -0400" stop="20200227070000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Modern Family</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227084500 -0400" stop="20200227100000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">SporTV News</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227070000 -0400" stop="20200227073000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227100000 -0400" stop="20200227123000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Redação SporTV</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227073000 -0400" stop="20200227080000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227123000 -0400" stop="20200227130000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">SporTV News</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227080000 -0400" stop="20200227083000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227130000 -0400" stop="20200227160000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Seleção SporTV</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227083000 -0400" stop="20200227090000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227160000 -0400" stop="20200227164500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Globo Esporte</title>
+  <programme start="20200227090000 -0400" stop="20200227093000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227164500 -0400" stop="20200227183000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Tá na Área</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227093000 -0400" stop="20200227100000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227183000 -0400" stop="20200227191500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Pré Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227100000 -0400" stop="20200227103100 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Modern Family</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227191500 -0400" stop="20200227211500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">São José RS x Chapecoense</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227103100 -0400" stop="20200227113300 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Entre Canibais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227211500 -0400" stop="20200227213000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Pré Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227113300 -0400" stop="20200227122600 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227213000 -0400" stop="20200227233000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Ponte Preta x Vila Nova</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227122600 -0400" stop="20200227132400 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227233000 -0400" stop="20200228005000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Troca de Passes</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227132400 -0400" stop="20200227141600 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Proven Innocent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228005000 -0400" stop="20200228010000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200227141600 -0400" stop="20200227150900 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228010000 -0400" stop="20200228020000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Giro da Rodada</title>
+  <programme start="20200227150900 -0400" stop="20200227155700 -0400" channel="FOX LIFE HD">
+    <title lang="pt">S.W.A.T.</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228020000 -0400" stop="20200228023000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Baú do Esporte</title>
+  <programme start="20200227155700 -0400" stop="20200227164900 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228023000 -0400" stop="20200228033000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200227164900 -0400" stop="20200227174100 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Proven Innocent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228033000 -0400" stop="20200228043000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+  <programme start="20200227174100 -0400" stop="20200227182900 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Remedy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228043000 -0400" stop="20200228053000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200227182900 -0400" stop="20200227191800 -0400" channel="FOX LIFE HD">
+    <title lang="pt">New Amsterdam</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228053000 -0400" stop="20200228063000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Caxias x Grêmio</sub-title>
+  <programme start="20200227191800 -0400" stop="20200227200700 -0400" channel="FOX LIFE HD">
+    <title lang="pt">The Resident</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228063000 -0400" stop="20200228075000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200227200700 -0400" stop="20200227210000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">The Resident</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228075000 -0400" stop="20200228084500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Giro da Rodada</title>
+  <programme start="20200227210000 -0400" stop="20200227215000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228084500 -0400" stop="20200228100000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">SporTV News</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227215000 -0400" stop="20200227223800 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228100000 -0400" stop="20200228123000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Redação SporTV</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227223800 -0400" stop="20200227232700 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228123000 -0400" stop="20200228130000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">SporTV News</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227232700 -0400" stop="20200228001400 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228130000 -0400" stop="20200228160000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Seleção SporTV</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228001400 -0400" stop="20200228010200 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order SVU</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228160000 -0400" stop="20200228164500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Globo Esporte</title>
+  <programme start="20200228010200 -0400" stop="20200228014800 -0400" channel="FOX LIFE HD">
+    <title lang="pt">S.W.A.T.</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228164500 -0400" stop="20200228182000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Tá na Área</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228014800 -0400" stop="20200228023500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">S.W.A.T.</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228182000 -0400" stop="20200228183000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228023500 -0400" stop="20200228032100 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Remedy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228183000 -0400" stop="20200228191500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Pré Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228032100 -0400" stop="20200228040900 -0400" channel="FOX LIFE HD">
+    <title lang="pt">The Resident</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228191500 -0400" stop="20200228211500 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Guarani x Água Santa</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228040900 -0400" stop="20200228045900 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Entre Canibais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228211500 -0400" stop="20200228213000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Pré Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228045900 -0400" stop="20200228054900 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Entre Canibais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228213000 -0400" stop="20200228233000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Bragantino x Ituano</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228054900 -0400" stop="20200228063500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228233000 -0400" stop="20200229010000 -0400" channel="SPORTV 1 HD">
-    <title lang="pt">Troca de Passes</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228063500 -0400" stop="20200228070000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Modern Family</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227003000 -0400" stop="20200227013000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200228070000 -0400" stop="20200228073000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227013000 -0400" stop="20200227023000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Caxias x Grêmio</sub-title>
+  <programme start="20200228073000 -0400" stop="20200228080000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227023000 -0400" stop="20200227033000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Faixa Olímpica</title>
+  <programme start="20200228080000 -0400" stop="20200228083000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227033000 -0400" stop="20200227053000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+  <programme start="20200228083000 -0400" stop="20200228090000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227053000 -0400" stop="20200227063000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Faixa Olímpica</title>
+  <programme start="20200228090000 -0400" stop="20200228093000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227063000 -0400" stop="20200227073000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Boleiragem</title>
+  <programme start="20200228093000 -0400" stop="20200228100000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Infomercial</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227073000 -0400" stop="20200227093000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+  <programme start="20200228100000 -0400" stop="20200228103000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Modern Family</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227093000 -0400" stop="20200227103000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+  <programme start="20200228103000 -0400" stop="20200228110000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">The Mick</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227103000 -0400" stop="20200227113000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+  <programme start="20200228110000 -0400" stop="20200228111500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Life in Pieces</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227113000 -0400" stop="20200227123000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200228111500 -0400" stop="20200228120000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Entre Canibais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227123000 -0400" stop="20200227133000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200228120000 -0400" stop="20200228124500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Entre Canibais</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227133000 -0400" stop="20200227143000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Ituano x Santos</sub-title>
+  <programme start="20200228124500 -0400" stop="20200228133000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227143000 -0400" stop="20200227153000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+  <programme start="20200228133000 -0400" stop="20200228141500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227153000 -0400" stop="20200227163000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+  <programme start="20200228141500 -0400" stop="20200228150000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Proven Innocent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227163000 -0400" stop="20200227173000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200228150000 -0400" stop="20200228154500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227173000 -0400" stop="20200227184500 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200228154500 -0400" stop="20200228163000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">S.W.A.T.</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227184500 -0400" stop="20200227205500 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+  <programme start="20200228163000 -0400" stop="20200228171500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Private Eyes</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227205500 -0400" stop="20200227210000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228171500 -0400" stop="20200228180000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Proven Innocent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227210000 -0400" stop="20200227220000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+  <programme start="20200228180000 -0400" stop="20200228184500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Remedy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227220000 -0400" stop="20200227230000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200228184500 -0400" stop="20200228193000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">New Amsterdam</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227230000 -0400" stop="20200228000000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+  <programme start="20200228193000 -0400" stop="20200228201500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">9-1-1</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228000000 -0400" stop="20200228020000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+  <programme start="20200228201500 -0400" stop="20200228210000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">9-1-1</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228020000 -0400" stop="20200228030000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Faixa Olímpica</title>
+  <programme start="20200228210000 -0400" stop="20200228214500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228030000 -0400" stop="20200228040000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Ituano x Santos</sub-title>
+  <programme start="20200228214500 -0400" stop="20200228223000 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228040000 -0400" stop="20200228050000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Boleiragem</title>
+  <programme start="20200228223000 -0400" stop="20200229004500 -0400" channel="FOX LIFE HD">
+    <title lang="pt">Sr. &amp; Sra. Smith</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228050000 -0400" stop="20200228060000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Giro da Rodada</title>
+  <programme start="20200227000500 -0400" stop="20200227005500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228060000 -0400" stop="20200228080000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+  <programme start="20200227005500 -0400" stop="20200227014500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228080000 -0400" stop="20200228090000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+  <programme start="20200227014500 -0400" stop="20200227023500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Dance Moms</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228090000 -0400" stop="20200228110000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+  <programme start="20200227023500 -0400" stop="20200227032500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228110000 -0400" stop="20200228123000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200227032500 -0400" stop="20200227041500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Bring It!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228123000 -0400" stop="20200228150000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200227041500 -0400" stop="20200227050500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228150000 -0400" stop="20200228180000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200227050500 -0400" stop="20200227060000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228180000 -0400" stop="20200228183000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">NBA Action</title>
+  <programme start="20200227060000 -0400" stop="20200227065000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Dance Moms</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228183000 -0400" stop="20200228203000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200227065000 -0400" stop="20200227074000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Bring It!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228203000 -0400" stop="20200228210000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Rumo À UEFA Euro 2020</title>
+  <programme start="20200227074000 -0400" stop="20200227083000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228210000 -0400" stop="20200228213000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Pré Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227083000 -0400" stop="20200227092000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228213000 -0400" stop="20200228233000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Superliga Feminina de Vôlei: Praia Clube x Osasco</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227092000 -0400" stop="20200227101000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228233000 -0400" stop="20200229000000 -0400" channel="SPORTV 2 HD">
-    <title lang="pt">Pós Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227101000 -0400" stop="20200227110000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Dance Moms</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227000000 -0400" stop="20200227005500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Especial UFC: Benavidez x Figueiredo</title>
+  <programme start="20200227110000 -0400" stop="20200227115000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Dance Moms</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227005500 -0400" stop="20200227010000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200227115000 -0400" stop="20200227133000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Quem Matou Jonbenét?</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227010000 -0400" stop="20200227020000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Água Santa x Corinthians</sub-title>
+  <programme start="20200227133000 -0400" stop="20200227142000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227020000 -0400" stop="20200227030000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Ituano x Santos</sub-title>
+  <programme start="20200227142000 -0400" stop="20200227151000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227030000 -0400" stop="20200227050000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">NBA: Toronto Raptors x Milwaukee Bucks</title>
+  <programme start="20200227151000 -0400" stop="20200227160000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227050000 -0400" stop="20200227060000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">UFC: Felder x Hooker</title>
+  <programme start="20200227160000 -0400" stop="20200227165000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227060000 -0400" stop="20200227070000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Especial UFC: Benavidez x Figueiredo</title>
+  <programme start="20200227165000 -0400" stop="20200227174000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227070000 -0400" stop="20200227090000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">NBA: Portland Trail Blazers x Boston Celtics</title>
+  <programme start="20200227174000 -0400" stop="20200227183000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227090000 -0400" stop="20200227110000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">NBA: Toronto Raptors x Milwaukee Bucks</title>
+  <programme start="20200227183000 -0400" stop="20200227185500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Criativos.br</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227110000 -0400" stop="20200227140000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Copa do Mundo de Ginástica Artística: Melbourne, Austrália</title>
+  <programme start="20200227185500 -0400" stop="20200227192000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Criativos.br</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227140000 -0400" stop="20200227160000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+  <programme start="20200227192000 -0400" stop="20200227205500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Quem Matou Jonbenét?</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227160000 -0400" stop="20200227170000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Especial UFC: Benavidez x Figueiredo</title>
+  <programme start="20200227205500 -0400" stop="20200227222500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Quase Samba</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227170000 -0400" stop="20200227180000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Caxias x Grêmio</sub-title>
+  <programme start="20200227222500 -0400" stop="20200228000000 -0400" channel="LIFETIME HD">
+    <title lang="pt">O Assassinato da Cheerleader</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227180000 -0400" stop="20200227180500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228000000 -0400" stop="20200228005500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227180500 -0400" stop="20200227190000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Especial UFC</title>
+  <programme start="20200228005500 -0400" stop="20200228014500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227190000 -0400" stop="20200227200000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Boleiragem</title>
+  <programme start="20200228014500 -0400" stop="20200228023500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Dance Moms</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227200000 -0400" stop="20200227210000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+  <programme start="20200228023500 -0400" stop="20200228032500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227210000 -0400" stop="20200227220000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Ituano x Santos</sub-title>
+  <programme start="20200228032500 -0400" stop="20200228041500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Bring It!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227220000 -0400" stop="20200227230000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Especial UFC</title>
+  <programme start="20200228041500 -0400" stop="20200228050500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227230000 -0400" stop="20200227230500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228050500 -0400" stop="20200228060000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227230500 -0400" stop="20200227230500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Caxias x Grêmio</sub-title>
+  <programme start="20200228060000 -0400" stop="20200228065000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Dance Moms</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227230500 -0400" stop="20200228005500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228065000 -0400" stop="20200228074000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Bring It!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228005500 -0400" stop="20200228010000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228074000 -0400" stop="20200228083000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228010000 -0400" stop="20200228023000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228083000 -0400" stop="20200228092000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228023000 -0400" stop="20200228040000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228092000 -0400" stop="20200228101000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228040000 -0400" stop="20200228050000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228101000 -0400" stop="20200228110000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Dance Moms</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228050000 -0400" stop="20200228060000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Faixa Olímpica</title>
+  <programme start="20200228110000 -0400" stop="20200228115000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228060000 -0400" stop="20200228070000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228115000 -0400" stop="20200228133000 -0400" channel="LIFETIME HD">
+    <title lang="pt">O Assassinato da Cheerleader</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228070000 -0400" stop="20200228090000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228133000 -0400" stop="20200228142000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228090000 -0400" stop="20200228110000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228142000 -0400" stop="20200228151000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Pequenas Grandes Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228110000 -0400" stop="20200228140000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Copa do Mundo de Ginástica Artística: Melbourne, Austrália</title>
+  <programme start="20200228151000 -0400" stop="20200228153500 -0400" channel="LIFETIME HD">
+    <title lang="pt">Criativos.br</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228140000 -0400" stop="20200228160000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228153500 -0400" stop="20200228160000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Criativos.br</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228160000 -0400" stop="20200228181000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228160000 -0400" stop="20200228165000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Project Runway</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228181000 -0400" stop="20200228181500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228165000 -0400" stop="20200228174000 -0400" channel="LIFETIME HD">
+    <title lang="pt">Jane the Virgin</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228181500 -0400" stop="20200228183000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Pré</title>
-    <sub-title lang="pt">Vivo</sub-title>
+  <programme start="20200228174000 -0400" stop="20200228192000 -0400" channel="LIFETIME HD">
+    <title lang="pt">A Reunião de 10 Anos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228183000 -0400" stop="20200228193000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Pesagem UFC: Benavidez x Figueiredo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228192000 -0400" stop="20200228205500 -0400" channel="LIFETIME HD">
+    <title lang="pt">O Assassinato da Cheerleader</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228193000 -0400" stop="20200228202500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200228205500 -0400" stop="20200228223000 -0400" channel="LIFETIME HD">
+    <title lang="pt">O Pesadelo De Um Pai</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228202500 -0400" stop="20200228203000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200228223000 -0400" stop="20200229000500 -0400" channel="LIFETIME HD">
+    <title lang="pt">O Sumiço De Kathie Durst</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228203000 -0400" stop="20200228215500 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200227000000 -0400" stop="20200227004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228215500 -0400" stop="20200228220000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Rumo a Tóquio</title>
+  <programme start="20200227004500 -0400" stop="20200227013000 -0400" channel="VIVA HD">
+    <title lang="pt">Brega &amp; Chique</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228220000 -0400" stop="20200228230000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">VT de Eventos</title>
+  <programme start="20200227013000 -0400" stop="20200227023000 -0400" channel="VIVA HD">
+    <title lang="pt">Verdades não Ditas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228230000 -0400" stop="20200229000000 -0400" channel="SPORTV 3 HD">
-    <title lang="pt">Faixa Olímpica</title>
+  <programme start="20200227023000 -0400" stop="20200227030000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227010000 -0400" stop="20200227024500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Internacional x Deportes Tolima (COL)</sub-title>
+  <programme start="20200227030000 -0400" stop="20200227033000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227024500 -0400" stop="20200227043000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Sporting Braga (POR) x Rangers FC (ESC)</sub-title>
+  <programme start="20200227033000 -0400" stop="20200227040000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227043000 -0400" stop="20200227051500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Central Fox Noite</title>
+  <programme start="20200227040000 -0400" stop="20200227043000 -0400" channel="VIVA HD">
+    <title lang="pt">Donos da História</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227051500 -0400" stop="20200227070000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Cerro Porteño (PAR) x Barcelona (EQU)</sub-title>
+  <programme start="20200227043000 -0400" stop="20200227050000 -0400" channel="VIVA HD">
+    <title lang="pt">Donos da História</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227070000 -0400" stop="20200227111500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Internacional x Deportes Tolima (COL)</sub-title>
+  <programme start="20200227050000 -0400" stop="20200227060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227111500 -0400" stop="20200227121000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Bom Dia Fox</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227060000 -0400" stop="20200227070000 -0400" channel="VIVA HD">
+    <title lang="pt">Viver do Riso</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227121000 -0400" stop="20200227124500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Central Fox Manhã</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227070000 -0400" stop="20200227073000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227124500 -0400" stop="20200227145000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Giro FOX</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227073000 -0400" stop="20200227080000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227145000 -0400" stop="20200227165500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Fox Sports Rádio</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227080000 -0400" stop="20200227083000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227165500 -0400" stop="20200227190000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Benfica (POR) x Shakhtar (UCR)</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227083000 -0400" stop="20200227090000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227190000 -0400" stop="20200227203000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Manchester United (ING) x Brugge (BEL)</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227090000 -0400" stop="20200227093000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227203000 -0400" stop="20200227213000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Expediente Futebol</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227093000 -0400" stop="20200227100000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227213000 -0400" stop="20200227230000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Central Fox</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227100000 -0400" stop="20200227103000 -0400" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227230000 -0400" stop="20200228000000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Debate Final</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227103000 -0400" stop="20200227110000 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228000000 -0400" stop="20200228003000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Central Fox Noite</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227110000 -0400" stop="20200227113000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228003000 -0400" stop="20200228021500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Visão Fox</title>
+  <programme start="20200227113000 -0400" stop="20200227120000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228021500 -0400" stop="20200228024500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Liga Europa</title>
+  <programme start="20200227120000 -0400" stop="20200227123000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228024500 -0400" stop="20200228043000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Visão Fox</title>
+  <programme start="20200227123000 -0400" stop="20200227130000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228043000 -0400" stop="20200228051500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Manchester United (ING) x Brugge (BEL)</sub-title>
+  <programme start="20200227130000 -0400" stop="20200227133000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228051500 -0400" stop="20200228054500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Central Fox Noite</title>
+  <programme start="20200227133000 -0400" stop="20200227143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Clone</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228054500 -0400" stop="20200228071500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Visão Fox</title>
+  <programme start="20200227143000 -0400" stop="20200227153000 -0400" channel="VIVA HD">
+    <title lang="pt">Brega &amp; Chique</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228071500 -0400" stop="20200228072500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Debate Final</title>
+  <programme start="20200227153000 -0400" stop="20200227161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228072500 -0400" stop="20200228081500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Filler</title>
+  <programme start="20200227161500 -0400" stop="20200227164500 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228081500 -0400" stop="20200228084500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">WWE RAW</title>
+  <programme start="20200227164500 -0400" stop="20200227170000 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228084500 -0400" stop="20200228111500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Aquece no NBB</title>
+  <programme start="20200227170000 -0400" stop="20200227180000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228111500 -0400" stop="20200228121000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Bom Dia Fox</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227180000 -0400" stop="20200227183000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228121000 -0400" stop="20200228124500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Central Fox Manhã</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227183000 -0400" stop="20200227193000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228124500 -0400" stop="20200228153000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Giro FOX</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227193000 -0400" stop="20200227200000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228153000 -0400" stop="20200228173000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Fox Sports Rádio</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227200000 -0400" stop="20200227203000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228173000 -0400" stop="20200228200000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Tarde Redonda</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227203000 -0400" stop="20200227210000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228200000 -0400" stop="20200228210500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Expediente Futebol</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227210000 -0400" stop="20200227220000 -0400" channel="VIVA HD">
+    <title lang="pt">Pé na Cova</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228210500 -0400" stop="20200228231000 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">Central Fox</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227220000 -0400" stop="20200227223000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228231000 -0400" stop="20200229000500 -0400" channel="FOX SPORTS HD">
-    <title lang="pt">NBB: Paulistano x Bauru</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227223000 -0400" stop="20200227230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227005000 -0400" stop="20200227010000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Filler</title>
+  <programme start="20200227230000 -0400" stop="20200228000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Clone</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227010000 -0400" stop="20200227020000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Show do Campeonato Espanhol</title>
+  <programme start="20200228000000 -0400" stop="20200228004500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227020000 -0400" stop="20200227034500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Cerro Porteño (PAR) x Barcelona (EQU)</sub-title>
+  <programme start="20200228004500 -0400" stop="20200228013000 -0400" channel="VIVA HD">
+    <title lang="pt">Brega &amp; Chique</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227034500 -0400" stop="20200227044500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Show do Campeonato Alemão</title>
+  <programme start="20200228013000 -0400" stop="20200228023000 -0400" channel="VIVA HD">
+    <title lang="pt">Verdades não Ditas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227044500 -0400" stop="20200227051500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Show da Liga Europa</title>
+  <programme start="20200228023000 -0400" stop="20200228030000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227051500 -0400" stop="20200227070000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Werder Bremen x Borussia Dortmund</sub-title>
+  <programme start="20200228030000 -0400" stop="20200228033000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227070000 -0400" stop="20200227083500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Central Fox Noite</title>
+  <programme start="20200228033000 -0400" stop="20200228040000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227083500 -0400" stop="20200227093500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">WWE Vintage</title>
+  <programme start="20200228040000 -0400" stop="20200228043000 -0400" channel="VIVA HD">
+    <title lang="pt">Rebobina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227093500 -0400" stop="20200227112000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Show do Campeonato Espanhol</title>
+  <programme start="20200228043000 -0400" stop="20200228050000 -0400" channel="VIVA HD">
+    <title lang="pt">Rebobina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227112000 -0400" stop="20200227130500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Cerro Porteño (PAR) x Barcelona (EQU)</sub-title>
+  <programme start="20200228050000 -0400" stop="20200228060000 -0400" channel="VIVA HD">
+    <title lang="pt">Entre o Céu e a Terra</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227130500 -0400" stop="20200227145000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Internacional x Deportes Tolima (COL)</sub-title>
+  <programme start="20200228060000 -0400" stop="20200228070000 -0400" channel="VIVA HD">
+    <title lang="pt">Supernanny Pelo Mundo</title>
+    <sub-title lang="pt">Holanda</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227145000 -0400" stop="20200227165500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Sporting Braga (POR) x Rangers FC (ESC)</sub-title>
+  <programme start="20200228070000 -0400" stop="20200228073000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227165500 -0400" stop="20200227190000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Porto (POR) x Bayer Leverkusen (ALE)</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228073000 -0400" stop="20200228080000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227190000 -0400" stop="20200227193000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Liga Europa</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228080000 -0400" stop="20200228083000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227193000 -0400" stop="20200227200000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Gent (BEL) x Roma (ITA)</sub-title>
+  <programme start="20200228083000 -0400" stop="20200228090000 -0400" channel="VIVA HD">
+    <title lang="pt">A Feiticeira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227200000 -0400" stop="20200227203000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Sevilla (ESP) x Cluj (ROM)</sub-title>
+  <programme start="20200228090000 -0400" stop="20200228093000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227203000 -0400" stop="20200227210000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Ajax (HOL) x Getafe (ESP)</sub-title>
+  <programme start="20200228093000 -0400" stop="20200228100000 -0400" channel="VIVA HD">
+    <title lang="pt">Jeannie é um Gênio</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227210000 -0400" stop="20200227215000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Internazionale (ITA) x Ludogorets (BUL)</sub-title>
+  <programme start="20200228100000 -0400" stop="20200228103000 -0400" channel="VIVA HD">
+    <title lang="pt">Sandy e Júnior</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227215000 -0400" stop="20200227222000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">WWE Main Event</title>
+  <programme start="20200228103000 -0400" stop="20200228110000 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227222000 -0400" stop="20200227225000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Programa da Nascar</title>
+  <programme start="20200228110000 -0400" stop="20200228113000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227225000 -0400" stop="20200227232000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Alemão</title>
+  <programme start="20200228113000 -0400" stop="20200228120000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227232000 -0400" stop="20200228010500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Espanhol</title>
+  <programme start="20200228120000 -0400" stop="20200228123000 -0400" channel="VIVA HD">
+    <title lang="pt">Caça Talentos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228010500 -0400" stop="20200228025000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Benfica (POR) x Shakhtar (UCR)</sub-title>
+  <programme start="20200228123000 -0400" stop="20200228130000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228025000 -0400" stop="20200228032000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Porto (POR) x Bayer Leverkusen (ALE)</sub-title>
+  <programme start="20200228130000 -0400" stop="20200228133000 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228032000 -0400" stop="20200228033000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Programa da Nascar</title>
+  <programme start="20200228133000 -0400" stop="20200228143000 -0400" channel="VIVA HD">
+    <title lang="pt">O Clone</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228033000 -0400" stop="20200228051500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Filler</title>
+  <programme start="20200228143000 -0400" stop="20200228153000 -0400" channel="VIVA HD">
+    <title lang="pt">Brega &amp; Chique</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228051500 -0400" stop="20200228054500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Internacional x Deportes Tolima (COL)</sub-title>
+  <programme start="20200228153000 -0400" stop="20200228161500 -0400" channel="VIVA HD">
+    <title lang="pt">Cabocla</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228054500 -0400" stop="20200228061500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Espanhol</title>
+  <programme start="20200228161500 -0400" stop="20200228164500 -0400" channel="VIVA HD">
+    <title lang="pt">Malhação 2008</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228061500 -0400" stop="20200228063000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Alemão</title>
+  <programme start="20200228164500 -0400" stop="20200228170000 -0400" channel="VIVA HD">
+    <title lang="pt">A Turma do Didi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228063000 -0400" stop="20200228070000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Filler</title>
+  <programme start="20200228170000 -0400" stop="20200228180000 -0400" channel="VIVA HD">
+    <title lang="pt">Pé na Cova</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228070000 -0400" stop="20200228074500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Programa da Nascar</title>
+  <programme start="20200228180000 -0400" stop="20200228183000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228074500 -0400" stop="20200228080000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Central Fox Noite</title>
+  <programme start="20200228183000 -0400" stop="20200228193000 -0400" channel="VIVA HD">
+    <title lang="pt">Zorra Total</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228080000 -0400" stop="20200228094500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Filler</title>
+  <programme start="20200228193000 -0400" stop="20200228200000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228094500 -0400" stop="20200228101500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Benfica (POR) x Shakhtar (UCR)</sub-title>
+  <programme start="20200228200000 -0400" stop="20200228203000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228101500 -0400" stop="20200228104500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Programa da Nascar</title>
+  <programme start="20200228203000 -0400" stop="20200228210000 -0400" channel="VIVA HD">
+    <title lang="pt">Escolinha do Professor Raimundo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228104500 -0400" stop="20200228111500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Espanhol</title>
+  <programme start="20200228210000 -0400" stop="20200228220000 -0400" channel="VIVA HD">
+    <title lang="pt">Toma Lá, Dá Cá</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228111500 -0400" stop="20200228130000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Alemão</title>
+  <programme start="20200228220000 -0400" stop="20200228223000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228130000 -0400" stop="20200228144500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Liga Europa</title>
+  <programme start="20200228223000 -0400" stop="20200228230000 -0400" channel="VIVA HD">
+    <title lang="pt">A Grande Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228144500 -0400" stop="20200228151500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Manchester United (ING) x Brugge (BEL)</sub-title>
+  <programme start="20200228230000 -0400" stop="20200229000000 -0400" channel="VIVA HD">
+    <title lang="pt">O Clone</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228151500 -0400" stop="20200228154500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Programa da Nascar</title>
+  <programme start="20200227004500 -0400" stop="20200227014000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228154500 -0400" stop="20200228161500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Espanhol</title>
+  <programme start="20200227014000 -0400" stop="20200227023500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228161500 -0400" stop="20200228162500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Prévia do Campeonato Alemão</title>
+  <programme start="20200227023500 -0400" stop="20200227033000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228162500 -0400" stop="20200228183000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Pré Jogo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227033000 -0400" stop="20200227042000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228183000 -0400" stop="20200228190000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Düsseldorf x Hertha Berlin</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227042000 -0400" stop="20200227051000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228190000 -0400" stop="20200228210500 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Programa da Nascar</title>
+  <programme start="20200227051000 -0400" stop="20200227060000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228210500 -0400" stop="20200228231000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Racing x Newells Old Boys</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227060000 -0400" stop="20200227070000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228231000 -0400" stop="20200229000000 -0400" channel="FOX SPORTS 2 HD">
-    <title lang="pt">Colon x Boca Juniors</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227070000 -0400" stop="20200227080000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227003000 -0400" stop="20200227013000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227080000 -0400" stop="20200227090000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227013000 -0400" stop="20200227023000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  <programme start="20200227090000 -0400" stop="20200227100000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227023000 -0400" stop="20200227042000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Gil Vicente x Benfica</title>
+  <programme start="20200227100000 -0400" stop="20200227110000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227042000 -0400" stop="20200227052000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200227110000 -0400" stop="20200227115500 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227052000 -0400" stop="20200227062000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Futebol No Mundo</title>
+  <programme start="20200227115500 -0400" stop="20200227125000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227062000 -0400" stop="20200227080000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Cardiff City x Nottingham Forest</title>
+  <programme start="20200227125000 -0400" stop="20200227134500 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227080000 -0400" stop="20200227090000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Linha de Passe: Mesa-redonda</title>
+  <programme start="20200227134500 -0400" stop="20200227144000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227090000 -0400" stop="20200227120000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227144000 -0400" stop="20200227153500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227120000 -0400" stop="20200227140000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Bate-Bola Debate</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227153500 -0400" stop="20200227163000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227140000 -0400" stop="20200227150000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Futebol no Mundo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227163000 -0400" stop="20200227172500 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227150000 -0400" stop="20200227180000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227172500 -0400" stop="20200227182000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227180000 -0400" stop="20200227200000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Futebol na Veia</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227182000 -0400" stop="20200227191500 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227200000 -0400" stop="20200227230000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227191500 -0400" stop="20200227201000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227230000 -0400" stop="20200228000000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200227201000 -0400" stop="20200227210500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228000000 -0400" stop="20200228013000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">ESPN Filmes</title>
+  <programme start="20200227210500 -0400" stop="20200227220000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228013000 -0400" stop="20200228023000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200227220000 -0400" stop="20200227225500 -0400" channel="AXN HD">
+    <title lang="pt">Snatch</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228023000 -0400" stop="20200228033000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Futebol No Mundo</title>
+  <programme start="20200227225500 -0400" stop="20200227235000 -0400" channel="AXN HD">
+    <title lang="pt">Snatch</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228033000 -0400" stop="20200228053000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Millwall x Birmingham City</title>
+  <programme start="20200227235000 -0400" stop="20200228004500 -0400" channel="AXN HD">
+    <title lang="pt">Snatch</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228053000 -0400" stop="20200228073000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Chelsea x Tottenham</title>
+  <programme start="20200228004500 -0400" stop="20200228014000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228073000 -0400" stop="20200228090000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Resenha ESPN</title>
+  <programme start="20200228014000 -0400" stop="20200228023500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228090000 -0400" stop="20200228120000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228023500 -0400" stop="20200228033000 -0400" channel="AXN HD">
+    <title lang="pt">Snatch</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228120000 -0400" stop="20200228140000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Bate-Bola Debate</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228033000 -0400" stop="20200228042000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228140000 -0400" stop="20200228150000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Futebol no Mundo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228042000 -0400" stop="20200228051000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228150000 -0400" stop="20200228165000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228051000 -0400" stop="20200228060000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228165000 -0400" stop="20200228190000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Norwich City x Leicester City</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228060000 -0400" stop="20200228070000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228190000 -0400" stop="20200228203000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Futebol na Veia</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228070000 -0400" stop="20200228080000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228203000 -0400" stop="20200228213000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228080000 -0400" stop="20200228090000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228213000 -0400" stop="20200228230000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Resenha ESPN</title>
+  <programme start="20200228090000 -0400" stop="20200228100000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228230000 -0400" stop="20200229000000 -0400" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228100000 -0400" stop="20200228110000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227003000 -0400" stop="20200227030000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">NBA: Boston Celtics x Utah Jazz</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228110000 -0400" stop="20200228115500 -0400" channel="AXN HD">
+    <title lang="pt">NCIS</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227030000 -0400" stop="20200227040000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200228115500 -0400" stop="20200228125000 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227040000 -0400" stop="20200227060000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Millwall x Birmingham City</title>
+  <programme start="20200228125000 -0400" stop="20200228134500 -0400" channel="AXN HD">
+    <title lang="pt">NCIS: Nova Orleans</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227060000 -0400" stop="20200227070000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200228134500 -0400" stop="20200228144000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227070000 -0400" stop="20200227080000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200228144000 -0400" stop="20200228153500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227080000 -0400" stop="20200227090000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200228153500 -0400" stop="20200228163000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227090000 -0400" stop="20200227113000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">NBA: Boston Celtics x Utah Jazz</title>
+  <programme start="20200228163000 -0400" stop="20200228172500 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227113000 -0400" stop="20200227133000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Cardiff City x Nottingham Forest</title>
+  <programme start="20200228172500 -0400" stop="20200228182000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227133000 -0400" stop="20200227143000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200228182000 -0400" stop="20200228191500 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227143000 -0400" stop="20200227170000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">NBA: Memphis Grizzlies x Houston Rockets</title>
+  <programme start="20200228191500 -0400" stop="20200228201000 -0400" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227170000 -0400" stop="20200227200000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Bayern de Munique x Paderborn</title>
+  <programme start="20200228201000 -0400" stop="20200228210500 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227200000 -0400" stop="20200227203000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Show da Rodada da Premier League</title>
+  <programme start="20200228210500 -0400" stop="20200228220000 -0400" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227203000 -0400" stop="20200227203500 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Abre o Jogo: Compacto NFL</title>
-    <sub-title lang="pt">O Melhor da Temporada</sub-title>
+  <programme start="20200228220000 -0400" stop="20200228225500 -0400" channel="AXN HD">
+    <title lang="pt">Carter</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227203500 -0400" stop="20200227213000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+  <programme start="20200228225500 -0400" stop="20200228235000 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200227213000 -0400" stop="20200228003000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">NHL: Dallas Stars x Boston Bruins</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228235000 -0400" stop="20200229004500 -0400" channel="AXN HD">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228003000 -0400" stop="20200228013000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200227003500 -0400" stop="20200227021500 -0400" channel="CINEMAX HD">
+    <title lang="pt">Só Deus Perdoa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228013000 -0400" stop="20200228023000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Moto: Isle of Man 2019</title>
+  <programme start="20200227021500 -0400" stop="20200227035300 -0400" channel="CINEMAX HD">
+    <title lang="pt">Locke</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228023000 -0400" stop="20200228033000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Moto: Isle of Man 2019</title>
+  <programme start="20200227035300 -0400" stop="20200227061700 -0400" channel="CINEMAX HD">
+    <title lang="pt">As Confissões de Schmidt</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228033000 -0400" stop="20200228053000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Basquete Universitário: SEC</title>
+  <programme start="20200227061700 -0400" stop="20200227075800 -0400" channel="CINEMAX HD">
+    <title lang="pt">As Aventuras de Paddington</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228053000 -0400" stop="20200228060000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">ATP World Tour Semanal</title>
+  <programme start="20200227075800 -0400" stop="20200227094200 -0400" channel="CINEMAX HD">
+    <title lang="pt">Antes do Adeus</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228060000 -0400" stop="20200228070000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200227094200 -0400" stop="20200227114200 -0400" channel="CINEMAX HD">
+    <title lang="pt">A Incrível História de Adaline</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228070000 -0400" stop="20200228080000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200227114200 -0400" stop="20200227133100 -0400" channel="CINEMAX HD">
+    <title lang="pt">DUFF: Você Conhece, Tem ou É</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228080000 -0400" stop="20200228090000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200227133100 -0400" stop="20200227152000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Larry Crowne</title>
+    <sub-title lang="pt">O Amor está de Volta</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228090000 -0400" stop="20200228113000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">NHL: Dallas Stars x Boston Bruins</title>
+  <programme start="20200227152000 -0400" stop="20200227173000 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Lado Bom da Vida</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228113000 -0400" stop="20200228133000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Heracles Almelo x Ajax</title>
+  <programme start="20200227173000 -0400" stop="20200227195200 -0400" channel="CINEMAX HD">
+    <title lang="pt">Karate Kid I: A Hora da Verdade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228133000 -0400" stop="20200228143000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20200227195200 -0400" stop="20200227220000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Karate Kid 2</title>
+    <sub-title lang="pt">A Hora da Verdade Continua</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228143000 -0400" stop="20200228150000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Matchmaking</title>
+  <programme start="20200227220000 -0400" stop="20200228003800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Karate Kid</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228150000 -0400" stop="20200228160000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+  <programme start="20200228003800 -0400" stop="20200228024800 -0400" channel="CINEMAX HD">
+    <title lang="pt">Karatê Kid 3</title>
+    <sub-title lang="pt">O Desafio Final</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228160000 -0400" stop="20200228165500 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Compacto NFL: O Melhor da Temporada</title>
+  <programme start="20200228024800 -0400" stop="20200228045200 -0400" channel="CINEMAX HD">
+    <title lang="pt">Mãos de Pedra</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228165500 -0400" stop="20200228190000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">Real Sociedad x Valladolid</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228045200 -0400" stop="20200228062300 -0400" channel="CINEMAX HD">
+    <title lang="pt">Buddy, Um Amor de Gorila</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228190000 -0400" stop="20200228203000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">ESPN Filmes</title>
+  <programme start="20200228062300 -0400" stop="20200228081900 -0400" channel="CINEMAX HD">
+    <title lang="pt">A Dama Dourada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228203000 -0400" stop="20200228210000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">NBA Action</title>
+  <programme start="20200228081900 -0400" stop="20200228104100 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Escritor Fantasma</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228210000 -0400" stop="20200228220000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">ESPN League</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228104100 -0400" stop="20200228122500 -0400" channel="CINEMAX HD">
+    <title lang="pt">Godzilla 2000</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20200228220000 -0400" stop="20200229003000 -0400" channel="ESPN 1 HD">
-    <title lang="pt">NBA: Oklahoma City Thunder x Milwaukee Bucks</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20200228122500 -0400" stop="20200228143500 -0400" channel="CINEMAX HD">
+    <title lang="pt">Sem Proteção</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228143500 -0400" stop="20200228161600 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Homem da Máfia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228161600 -0400" stop="20200228175200 -0400" channel="CINEMAX HD">
+    <title lang="pt">Eu Compartilho. Eu Gosto. Eu Sigo.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228175200 -0400" stop="20200228192400 -0400" channel="CINEMAX HD">
+    <title lang="pt">O Golpe</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228192400 -0400" stop="20200228220000 -0400" channel="CINEMAX HD">
+    <title lang="pt">Guerreiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228220000 -0400" stop="20200228234900 -0400" channel="CINEMAX HD">
+    <title lang="pt">Godzilla 2000</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228234900 -0400" stop="20200229013600 -0400" channel="CINEMAX HD">
+    <title lang="pt">Nunca Diga Seu Nome</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227002100 -0400" stop="20200227025500 -0400" channel="FOX HD">
+    <title lang="pt">O Hobbit</title>
+    <sub-title lang="pt">A Desolação De Smaug</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227025500 -0400" stop="20200227043300 -0400" channel="FOX HD">
+    <title lang="pt">O Grande Mentiroso 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227043300 -0400" stop="20200227061400 -0400" channel="FOX HD">
+    <title lang="pt">Mamãe: Operação Balada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227061400 -0400" stop="20200227063700 -0400" channel="FOX HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227063700 -0400" stop="20200227070000 -0400" channel="FOX HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227070000 -0400" stop="20200227072300 -0400" channel="FOX HD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227072300 -0400" stop="20200227074600 -0400" channel="FOX HD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227074600 -0400" stop="20200227080000 -0400" channel="FOX HD">
+    <title lang="pt">Zoom In</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227080000 -0400" stop="20200227090000 -0400" channel="FOX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227090000 -0400" stop="20200227100000 -0400" channel="FOX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227100000 -0400" stop="20200227113600 -0400" channel="FOX HD">
+    <title lang="pt">Doze é Demais 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227113600 -0400" stop="20200227130800 -0400" channel="FOX HD">
+    <title lang="pt">Planeta 51</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227130800 -0400" stop="20200227144300 -0400" channel="FOX HD">
+    <title lang="pt">Festa no Céu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227144300 -0400" stop="20200227163700 -0400" channel="FOX HD">
+    <title lang="pt">Professor Peso Pesado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227163700 -0400" stop="20200227170100 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227170100 -0400" stop="20200227172500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227172500 -0400" stop="20200227175000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227175000 -0400" stop="20200227181500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227181500 -0400" stop="20200227200700 -0400" channel="FOX HD">
+    <title lang="pt">Meu Passado Me Condena 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227200700 -0400" stop="20200227203200 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227203200 -0400" stop="20200227205600 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227205600 -0400" stop="20200227211800 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227211800 -0400" stop="20200227214300 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227214300 -0400" stop="20200227220600 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227220600 -0400" stop="20200227223000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227223000 -0400" stop="20200228001100 -0400" channel="FOX HD">
+    <title lang="pt">Percy Jackson e o Mar de Monstros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228001100 -0400" stop="20200228010000 -0400" channel="FOX HD">
+    <title lang="pt">The Walking Dead</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228010000 -0400" stop="20200228031200 -0400" channel="FOX HD">
+    <title lang="pt">Em Seu Lugar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228031200 -0400" stop="20200228045300 -0400" channel="FOX HD">
+    <title lang="pt">Depois da Tempestade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228045300 -0400" stop="20200228063700 -0400" channel="FOX HD">
+    <title lang="pt">Dança Comigo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228063700 -0400" stop="20200228070000 -0400" channel="FOX HD">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228070000 -0400" stop="20200228072000 -0400" channel="FOX HD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228072000 -0400" stop="20200228080000 -0400" channel="FOX HD">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228080000 -0400" stop="20200228083000 -0400" channel="FOX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228083000 -0400" stop="20200228090000 -0400" channel="FOX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228090000 -0400" stop="20200228100000 -0400" channel="FOX HD">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100000 -0400" stop="20200228114500 -0400" channel="FOX HD">
+    <title lang="pt">Mamãe: Operação Balada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228114500 -0400" stop="20200228131500 -0400" channel="FOX HD">
+    <title lang="pt">Doris, Redescobrindo o Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228131500 -0400" stop="20200228145000 -0400" channel="FOX HD">
+    <title lang="pt">O Grande Dave</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228145000 -0400" stop="20200228162500 -0400" channel="FOX HD">
+    <title lang="pt">Planeta 51</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228162500 -0400" stop="20200228165000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228165000 -0400" stop="20200228171500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228171500 -0400" stop="20200228174000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228174000 -0400" stop="20200228180500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228180500 -0400" stop="20200228195000 -0400" channel="FOX HD">
+    <title lang="pt">Até que a Sorte nos Separe 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228195000 -0400" stop="20200228201500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228201500 -0400" stop="20200228204000 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228204000 -0400" stop="20200228210500 -0400" channel="FOX HD">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228210500 -0400" stop="20200228224500 -0400" channel="FOX HD">
+    <title lang="pt">Pai em Dose Dupla</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228224500 -0400" stop="20200229002500 -0400" channel="FOX HD">
+    <title lang="pt">Pai em Dose Dupla 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227001900 -0400" stop="20200227024500 -0400" channel="FX HD">
+    <title lang="pt">Homem-Aranha 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227024500 -0400" stop="20200227030800 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227030800 -0400" stop="20200227033200 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227033200 -0400" stop="20200227045600 -0400" channel="FX HD">
+    <title lang="pt">Temos Vagas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227045600 -0400" stop="20200227063700 -0400" channel="FX HD">
+    <title lang="pt">Eu Ainda sei o que Vocês Fizeram no Verão Passado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227063700 -0400" stop="20200227070000 -0400" channel="FX HD">
+    <title lang="pt">American Dad</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227070000 -0400" stop="20200227073000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227073000 -0400" stop="20200227080000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227080000 -0400" stop="20200227083000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227083000 -0400" stop="20200227090000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227090000 -0400" stop="20200227100000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227100000 -0400" stop="20200227115300 -0400" channel="FX HD">
+    <title lang="pt">Max Payne</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227115300 -0400" stop="20200227121800 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227121800 -0400" stop="20200227124200 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227124200 -0400" stop="20200227145300 -0400" channel="FX HD">
+    <title lang="pt">Lágrimas do Sol</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227145300 -0400" stop="20200227162900 -0400" channel="FX HD">
+    <title lang="pt">Todo Mundo em Pânico 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227162900 -0400" stop="20200227181800 -0400" channel="FX HD">
+    <title lang="pt">Um Tira da Pesada 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227181800 -0400" stop="20200227203200 -0400" channel="FX HD">
+    <title lang="pt">X-Men: Dias de um Futuro Esquecido</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227203200 -0400" stop="20200227220000 -0400" channel="FX HD">
+    <title lang="pt">Missão Babilônia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227220000 -0400" stop="20200228004900 -0400" channel="FX HD">
+    <title lang="pt">O Hobbit: Uma Jornada Inesperada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228004900 -0400" stop="20200228022300 -0400" channel="FX HD">
+    <title lang="pt">Corrida Mortal 2050</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228022300 -0400" stop="20200228025200 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228025200 -0400" stop="20200228031600 -0400" channel="FX HD">
+    <title lang="pt">Bob's Burgers</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228031600 -0400" stop="20200228050700 -0400" channel="FX HD">
+    <title lang="pt">12 Horas Para Sobreviver: O Ano da Eleição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228050700 -0400" stop="20200228070000 -0400" channel="FX HD">
+    <title lang="pt">Max Payne</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228070000 -0400" stop="20200228073000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228073000 -0400" stop="20200228080000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228080000 -0400" stop="20200228083000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228083000 -0400" stop="20200228090000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228090000 -0400" stop="20200228100000 -0400" channel="FX HD">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100000 -0400" stop="20200228123500 -0400" channel="FX HD">
+    <title lang="pt">A Firma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228123500 -0400" stop="20200228130000 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228130000 -0400" stop="20200228132500 -0400" channel="FX HD">
+    <title lang="pt">Uma Família da Pesada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228132500 -0400" stop="20200228151000 -0400" channel="FX HD">
+    <title lang="pt">Um Tira da Pesada 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228151000 -0400" stop="20200228173000 -0400" channel="FX HD">
+    <title lang="pt">Noé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228173000 -0400" stop="20200228195000 -0400" channel="FX HD">
+    <title lang="pt">O Espetacular Homem-Aranha 2: A Ameaça de Electro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228195000 -0400" stop="20200228214500 -0400" channel="FX HD">
+    <title lang="pt">3 Dias para Matar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228214500 -0400" stop="20200228234500 -0400" channel="FX HD">
+    <title lang="pt">Duro de Matar 4.0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228234500 -0400" stop="20200229012500 -0400" channel="FX HD">
+    <title lang="pt">Duro de Matar: Um Bom Dia para Morrer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227020000 -0400" stop="20200227030500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227030500 -0400" stop="20200227051500 -0400" channel="HBO 2 HD">
+    <title lang="pt">O Iluminado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227051500 -0400" stop="20200227071000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Gattaca</title>
+    <sub-title lang="pt">A Experiência Genética</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227071000 -0400" stop="20200227085000 -0400" channel="HBO 2 HD">
+    <title lang="pt">O Mistério de Hailey Dean: A Galeria Da Morte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227085000 -0400" stop="20200227104500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227104500 -0400" stop="20200227131500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Um Sonho de Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227131500 -0400" stop="20200227152000 -0400" channel="HBO 2 HD">
+    <title lang="pt">A Mula</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227152000 -0400" stop="20200227155500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Avenue 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227155500 -0400" stop="20200227170500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227170500 -0400" stop="20200227180500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Monstro do Pântano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227180500 -0400" stop="20200227200000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Pokémon: Detetive Pikachu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227200000 -0400" stop="20200227210000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Jorge Mautner</title>
+    <sub-title lang="pt">Kaos em Ação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227210000 -0400" stop="20200227220000 -0400" channel="HBO 2 HD">
+    <title lang="pt">McMillions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227220000 -0400" stop="20200227234000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Goosebumps 2: Halloween Assombrado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227234000 -0400" stop="20200228015500 -0400" channel="HBO 2 HD">
+    <title lang="pt">V de Vingança</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228015500 -0400" stop="20200228022500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Avenue 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228022500 -0400" stop="20200228032000 -0400" channel="HBO 2 HD">
+    <title lang="pt">A Zona</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228032000 -0400" stop="20200228052000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Cálculo Mortal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228052000 -0400" stop="20200228071500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Confirmação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228071500 -0400" stop="20200228094000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Um Sonho de Liberdade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228094000 -0400" stop="20200228113500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Colette</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228113500 -0400" stop="20200228123500 -0400" channel="HBO 2 HD">
+    <title lang="pt">McMillions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228123500 -0400" stop="20200228144500 -0400" channel="HBO 2 HD">
+    <title lang="pt">12 Heróis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228144500 -0400" stop="20200228170000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Todo Dinheiro Do Mundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228170000 -0400" stop="20200228183500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Hotel Artemis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228183500 -0400" stop="20200228193000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Jorge Mautner</title>
+    <sub-title lang="pt">Kaos em Ação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228193000 -0400" stop="20200228202500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Jorge Mautner</title>
+    <sub-title lang="pt">Kaos em Ação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228202500 -0400" stop="20200228220000 -0400" channel="HBO 2 HD">
+    <title lang="pt">22 Milhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228220000 -0400" stop="20200228235000 -0400" channel="HBO 2 HD">
+    <title lang="pt">Hóspede Indesejado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228235000 -0400" stop="20200229014500 -0400" channel="HBO 2 HD">
+    <title lang="pt">Os Outros Caras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227012700 -0400" stop="20200227025300 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Para Sempre Você</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227025300 -0400" stop="20200227043600 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Feitiço do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227043600 -0400" stop="20200227062000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Nancy Drew</title>
+    <sub-title lang="pt">E o Mistério de Hollywood</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227062000 -0400" stop="20200227075600 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Scooby-Doo! 2: Monstros à Solta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227075600 -0400" stop="20200227092200 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Scooby-Doo e a Maldição do 13° Fantasma</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227092200 -0400" stop="20200227104900 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Como Cães e Gatos 2</title>
+    <sub-title lang="pt">A Vingança de Kitty Galore</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227104900 -0400" stop="20200227120900 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">LEGO DC Comics Super Heróis</title>
+    <sub-title lang="pt">Aquaman: A Fúria de Atlântida</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227120900 -0400" stop="20200227133000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Lego Dc Super Girls: Escola De Supervilãs</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227133000 -0400" stop="20200227152300 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Uma Prova de Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227152300 -0400" stop="20200227165000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Para Sempre Você</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227165000 -0400" stop="20200227182500 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">As Loucuras de Dick e Jane</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227182500 -0400" stop="20200227200000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Sol da Meia-Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227200000 -0400" stop="20200227214700 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Sem Reservas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227214700 -0400" stop="20200227233500 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Gremlins</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227233500 -0400" stop="20200228013800 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">A Rota Selvagem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228013800 -0400" stop="20200228032700 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Te Amarei Para Sempre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228032700 -0400" stop="20200228045300 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Como Cães e Gatos 2</title>
+    <sub-title lang="pt">A Vingança de Kitty Galore</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228045300 -0400" stop="20200228062500 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Um Maluco no Natal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228062500 -0400" stop="20200228084000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Um Sonho Possível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228084000 -0400" stop="20200228100300 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Liga da Justiça: Os Cinco Fatais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100300 -0400" stop="20200228122700 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Jogador Nº 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228122700 -0400" stop="20200228142000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Uma Aventura Lego 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228142000 -0400" stop="20200228161100 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Coração de Tinta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228161100 -0400" stop="20200228175000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Os Piores Anos da Minha Vida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228175000 -0400" stop="20200228200000 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Batman</title>
+    <sub-title lang="pt">O Retorno</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228200000 -0400" stop="20200228213900 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Pé Pequeno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228213900 -0400" stop="20200229000100 -0400" channel="HBO FAMILY HD">
+    <title lang="pt">Jogador Nº 1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227004200 -0400" stop="20200227014200 -0400" channel="HBO HD">
+    <title lang="pt">McMillions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227014200 -0400" stop="20200227023500 -0400" channel="HBO HD">
+    <title lang="pt">Monstro do Pântano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227023500 -0400" stop="20200227042500 -0400" channel="HBO HD">
+    <title lang="pt">Decisões Extremas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227042500 -0400" stop="20200227060000 -0400" channel="HBO HD">
+    <title lang="pt">A Garota do Abrigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227060000 -0400" stop="20200227075000 -0400" channel="HBO HD">
+    <title lang="pt">Os Escritos Secretos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227075000 -0400" stop="20200227093500 -0400" channel="HBO HD">
+    <title lang="pt">Eles não Envelhecerão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227093500 -0400" stop="20200227115000 -0400" channel="HBO HD">
+    <title lang="pt">Rede de Mentiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227115000 -0400" stop="20200227134500 -0400" channel="HBO HD">
+    <title lang="pt">Oito Mulheres e Um Segredo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227134500 -0400" stop="20200227152500 -0400" channel="HBO HD">
+    <title lang="pt">Ali e Cavett: A História das Fitas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227152500 -0400" stop="20200227174000 -0400" channel="HBO HD">
+    <title lang="pt">Espanglês</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227174000 -0400" stop="20200227181000 -0400" channel="HBO HD">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227181000 -0400" stop="20200227200500 -0400" channel="HBO HD">
+    <title lang="pt">Colette</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227200500 -0400" stop="20200227210000 -0400" channel="HBO HD">
+    <title lang="pt">A Zona</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227210000 -0400" stop="20200227220000 -0400" channel="HBO HD">
+    <title lang="pt">Outsider</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227220000 -0400" stop="20200227230000 -0400" channel="HBO HD">
+    <title lang="pt">Jorge Mautner</title>
+    <sub-title lang="pt">Kaos em Ação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227230000 -0400" stop="20200228005000 -0400" channel="HBO HD">
+    <title lang="pt">Hóspede Indesejado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228005000 -0400" stop="20200228022000 -0400" channel="HBO HD">
+    <title lang="pt">UFO</title>
+    <sub-title lang="pt">Estamos Sozinhos?</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228022000 -0400" stop="20200228042500 -0400" channel="HBO HD">
+    <title lang="pt">Deixando Neverland</title>
+    <sub-title lang="pt">Parte 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228042500 -0400" stop="20200228063000 -0400" channel="HBO HD">
+    <title lang="pt">Deixando Neverland</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228063000 -0400" stop="20200228083000 -0400" channel="HBO HD">
+    <title lang="pt">O Favorito</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228083000 -0400" stop="20200228105000 -0400" channel="HBO HD">
+    <title lang="pt">Shazam!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228105000 -0400" stop="20200228122500 -0400" channel="HBO HD">
+    <title lang="pt">Licença para Casar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228122500 -0400" stop="20200228141500 -0400" channel="HBO HD">
+    <title lang="pt">Te Peguei!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228141500 -0400" stop="20200228154500 -0400" channel="HBO HD">
+    <title lang="pt">Zumbilândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228154500 -0400" stop="20200228175000 -0400" channel="HBO HD">
+    <title lang="pt">Blade 2: O Caçador de Vampiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228175000 -0400" stop="20200228194500 -0400" channel="HBO HD">
+    <title lang="pt">Miss Bala</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228194500 -0400" stop="20200228220500 -0400" channel="HBO HD">
+    <title lang="pt">Shazam!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228220500 -0400" stop="20200228225500 -0400" channel="HBO HD">
+    <title lang="pt">Monstro do Pântano</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228225500 -0400" stop="20200229012000 -0400" channel="HBO HD">
+    <title lang="pt">Nasce Uma Estrela</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227000300 -0400" stop="20200227015500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Meu Jantar com Hervé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227015500 -0400" stop="20200227034000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Desmascarando Jihadi John: Anatomia de um Terrorista</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227034000 -0400" stop="20200227053500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">O Segredo de Berlim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227053500 -0400" stop="20200227061500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Vídeos Caseiros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227061500 -0400" stop="20200227072000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Eu Te Amo, Agora Morra: O Caso de Michelle Carter</title>
+    <sub-title lang="pt">Parte 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227072000 -0400" stop="20200227084500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Eu Te Amo, Agora Morra: O Caso de Michelle Carter</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227084500 -0400" stop="20200227103000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Fahrenheit 451</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227103000 -0400" stop="20200227114200 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227114200 -0400" stop="20200227124500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227124500 -0400" stop="20200227135000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227135000 -0400" stop="20200227145500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227145500 -0400" stop="20200227155500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227155500 -0400" stop="20200227170000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227170000 -0400" stop="20200227180000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227180000 -0400" stop="20200227183600 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Clubversão Latino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227183600 -0400" stop="20200227191500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Clubversão Latino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227191500 -0400" stop="20200227202000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227202000 -0400" stop="20200227212500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227212500 -0400" stop="20200227230000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200227230000 -0400" stop="20200228000300 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">McMillions</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228000300 -0400" stop="20200228023500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Spielberg</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228023500 -0400" stop="20200228045500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">O Mago das Mentiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228045500 -0400" stop="20200228064000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Invasão a Londres</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228064000 -0400" stop="20200228081000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Quem Matou Garrett Phillips?</title>
+    <sub-title lang="pt">Parte 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228081000 -0400" stop="20200228100000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Quem Matou Garrett Phillips?</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100000 -0400" stop="20200228103300 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Avenue 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228103300 -0400" stop="20200228111500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Segura a Onda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228111500 -0400" stop="20200228123000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228123000 -0400" stop="20200228133500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228133500 -0400" stop="20200228144000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228144000 -0400" stop="20200228160000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228160000 -0400" stop="20200228170500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228170500 -0400" stop="20200228181000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228181000 -0400" stop="20200228191500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228191500 -0400" stop="20200228202000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228202000 -0400" stop="20200228212500 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228212500 -0400" stop="20200228230000 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">Westworld</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228230000 -0400" stop="20200229000300 -0400" channel="HBO SIGNATURE HD">
+    <title lang="pt">A Zona</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
