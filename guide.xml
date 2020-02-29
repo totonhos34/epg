@@ -12,6 +12,18 @@
     <display-name lang="pt">SporTV 2 HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="SPORTV 3 FULL HD">
+    <display-name lang="pt">SPORTV 3 FULL HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SPORTV 2 FULL HD">
+    <display-name lang="pt"> SPORTV 2 FULL HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SPORTV 1 FULL HD">
+    <display-name lang="pt">SPORTV 1 FULL HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <programme start="20200228005000 -0400" stop="20200228010000 -0400" channel="SporTV HD">
     <title lang="pt">Rumo a Tóquio</title>
     <star-rating>
@@ -1278,6 +1290,1276 @@
   <programme start="20200301233500 -0400" stop="20200302013000 -0400" channel="SporTV 2 HD">
     <title lang="pt">VT</title>
     <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228000500 -0400" stop="20200228003500 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228003500 -0400" stop="20200228005500 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Galeria SporTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228005500 -0400" stop="20200228010000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228010000 -0400" stop="20200228020000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228020000 -0400" stop="20200228030000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228030000 -0400" stop="20200228040000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">UFC: Felder x Hooker</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228040000 -0400" stop="20200228050000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228050000 -0400" stop="20200228060000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228060000 -0400" stop="20200228073000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Grande Círculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228073000 -0400" stop="20200228083000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228083000 -0400" stop="20200228093000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228093000 -0400" stop="20200228100000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100000 -0400" stop="20200228110000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228110000 -0400" stop="20200228140000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Copa do Mundo de Ginástica Artística: Melbourne, Austrália</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228140000 -0400" stop="20200228150000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228150000 -0400" stop="20200228170000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228170000 -0400" stop="20200228181000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228181000 -0400" stop="20200228181500 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228181500 -0400" stop="20200228183000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Pré</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228183000 -0400" stop="20200228193000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Pesagem UFC: Benavidez x Figueiredo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228193000 -0400" stop="20200228202500 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228202500 -0400" stop="20200228203000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228203000 -0400" stop="20200228210000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228210000 -0400" stop="20200228215500 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228215500 -0400" stop="20200228220000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228220000 -0400" stop="20200228230000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228230000 -0400" stop="20200229000000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229000000 -0400" stop="20200229005500 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229005500 -0400" stop="20200229010000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229010000 -0400" stop="20200229020000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229020000 -0400" stop="20200229030000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229030000 -0400" stop="20200229040000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229040000 -0400" stop="20200229050000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229050000 -0400" stop="20200229060000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229060000 -0400" stop="20200229070000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229070000 -0400" stop="20200229080000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Especial Combate: Especial UFC Benavidez x Figueiredo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229080000 -0400" stop="20200229100000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229100000 -0400" stop="20200229110000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229110000 -0400" stop="20200229120000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229120000 -0400" stop="20200229130000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229130000 -0400" stop="20200229163000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Liga Brasileira de Free Fire</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229163000 -0400" stop="20200229173000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Juventude</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229173000 -0400" stop="20200229183000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229183000 -0400" stop="20200229190000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Aquecimento Combate</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229190000 -0400" stop="20200229220000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">UFC: Benavidez x Figueiredo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229220000 -0400" stop="20200229230000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229230000 -0400" stop="20200301000000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Resende x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301000000 -0400" stop="20200301010000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boa Esporte x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301010000 -0400" stop="20200301040000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">UFC: Benavidez x Figueiredo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301040000 -0400" stop="20200301050000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301050000 -0400" stop="20200301060000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301060000 -0400" stop="20200301070000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT de Eventos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301070000 -0400" stop="20200301080000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301080000 -0400" stop="20200301090000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Caldense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301090000 -0400" stop="20200301100000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Patrocinense x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301100000 -0400" stop="20200301120000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Sul-americano de Clubes de Vôlei Masculino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301120000 -0400" stop="20200301130000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301130000 -0400" stop="20200301140000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301140000 -0400" stop="20200301150000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ferroviária x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301150000 -0400" stop="20200301161500 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Mirassol</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301161500 -0400" stop="20200301163000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301163000 -0400" stop="20200301190000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rio Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301190000 -0400" stop="20200301210000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rio Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301210000 -0400" stop="20200301230000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Rio Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301230000 -0400" stop="20200302000000 -0400" channel="SPORTV 3 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228000000 -0400" stop="20200228020000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228020000 -0400" stop="20200228030000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228030000 -0400" stop="20200228040000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ituano x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228040000 -0400" stop="20200228050000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228050000 -0400" stop="20200228060000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228060000 -0400" stop="20200228080000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Minas x Cruzeiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228080000 -0400" stop="20200228090000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228090000 -0400" stop="20200228100000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100000 -0400" stop="20200228110000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caxias x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228110000 -0400" stop="20200228120000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228120000 -0400" stop="20200228130000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228130000 -0400" stop="20200228140000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228140000 -0400" stop="20200228150000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228150000 -0400" stop="20200228160000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228160000 -0400" stop="20200228170000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228170000 -0400" stop="20200228180000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228180000 -0400" stop="20200228183000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">NBA Action</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228183000 -0400" stop="20200228193000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228193000 -0400" stop="20200228210000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Grande Círculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228210000 -0400" stop="20200228213000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228213000 -0400" stop="20200228233000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga Feminina de Vôlei: Praia Clube x Osasco</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228233000 -0400" stop="20200229000000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Pós Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229000000 -0400" stop="20200229010000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229010000 -0400" stop="20200229030000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Feminino: Praia Clube x Osasco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229030000 -0400" stop="20200229040000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229040000 -0400" stop="20200229050000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229050000 -0400" stop="20200229070000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Feminino: Praia Clube x Osasco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229070000 -0400" stop="20200229080000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229080000 -0400" stop="20200229083000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Galeria SporTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229083000 -0400" stop="20200229093000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229093000 -0400" stop="20200229103000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229103000 -0400" stop="20200229113000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Afogados PE x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229113000 -0400" stop="20200229133000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Feminino: Praia Clube x Osasco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229133000 -0400" stop="20200229143000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229143000 -0400" stop="20200229153000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229153000 -0400" stop="20200229163000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229163000 -0400" stop="20200229170000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229170000 -0400" stop="20200229190000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Feminino: Praia Clube x Osasco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229190000 -0400" stop="20200229193000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229193000 -0400" stop="20200229213000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Sesc-rj x Sesi</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229213000 -0400" stop="20200229220000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Pós Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229220000 -0400" stop="20200301003000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">NBA: Memphis Grizzlies x Los Angeles Lakers</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301003000 -0400" stop="20200301020000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Troca de Passes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301020000 -0400" stop="20200301040000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Superliga de Vôlei Masculino: Sesc RJ x Sesi</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301040000 -0400" stop="20200301050000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301050000 -0400" stop="20200301053000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301053000 -0400" stop="20200301063000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301063000 -0400" stop="20200301073000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301073000 -0400" stop="20200301080000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301080000 -0400" stop="20200301090000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301090000 -0400" stop="20200301100000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ferroviária x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301100000 -0400" stop="20200301110000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Mirassol</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301110000 -0400" stop="20200301120000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ind. Medellín (COL) x Atlético Tucúman (ARG)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301120000 -0400" stop="20200301130000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vitória ES x Figueirense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301130000 -0400" stop="20200301140000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Caldense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301140000 -0400" stop="20200301150000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Patrocinense x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301150000 -0400" stop="20200301160000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ind. Medellín (COL) x Atlético Tucúman (ARG)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301160000 -0400" stop="20200301170000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vitória ES x Figueirense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301170000 -0400" stop="20200301180000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301180000 -0400" stop="20200301190000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301190000 -0400" stop="20200301191500 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301191500 -0400" stop="20200301211500 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Paysandu x CRB</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301211500 -0400" stop="20200301212000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301212000 -0400" stop="20200301233000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Sul-americano de Clubes de Vôlei Masculino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301233000 -0400" stop="20200301233500 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301233500 -0400" stop="20200302013000 -0400" channel="SPORTV 2 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228005000 -0400" stop="20200228010000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228010000 -0400" stop="20200228020000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228020000 -0400" stop="20200228023000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228023000 -0400" stop="20200228033000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228033000 -0400" stop="20200228043000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Guarani</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228043000 -0400" stop="20200228053000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Moto Club x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228053000 -0400" stop="20200228063000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caxias x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228063000 -0400" stop="20200228075000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Santo André</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228075000 -0400" stop="20200228084500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228084500 -0400" stop="20200228100000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100000 -0400" stop="20200228123000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228123000 -0400" stop="20200228130000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228130000 -0400" stop="20200228160000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228160000 -0400" stop="20200228164500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Globo Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228164500 -0400" stop="20200228182000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228182000 -0400" stop="20200228183000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228183000 -0400" stop="20200228191500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228191500 -0400" stop="20200228211500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Guarani x Água Santa</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228211500 -0400" stop="20200228213000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228213000 -0400" stop="20200228233000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Bragantino x Ituano</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228233000 -0400" stop="20200229010000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229010000 -0400" stop="20200229020000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229020000 -0400" stop="20200229030000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229030000 -0400" stop="20200229040000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vitória x Bahia</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229040000 -0400" stop="20200229050000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Vitória</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229050000 -0400" stop="20200229053000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229053000 -0400" stop="20200229063000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229063000 -0400" stop="20200229073000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229073000 -0400" stop="20200229083000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x Fluminense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229083000 -0400" stop="20200229093000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229093000 -0400" stop="20200229103000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229103000 -0400" stop="20200229113000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229113000 -0400" stop="20200229123000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229123000 -0400" stop="20200229124500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229124500 -0400" stop="20200229130000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Galeria SporTV</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229130000 -0400" stop="20200229150000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229150000 -0400" stop="20200229160000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229160000 -0400" stop="20200229180000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Sport x Afogados</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229180000 -0400" stop="20200229190000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229190000 -0400" stop="20200229210000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Caxias x Internacional</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229210000 -0400" stop="20200229223000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229223000 -0400" stop="20200301000000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Grande Círculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301000000 -0400" stop="20200301010000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301010000 -0400" stop="20200301020000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301020000 -0400" stop="20200301030000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Resende x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301030000 -0400" stop="20200301040000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Caxias x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301040000 -0400" stop="20200301050000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Boa Esporte x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301050000 -0400" stop="20200301060000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Juventude</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301060000 -0400" stop="20200301070000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Resende x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301070000 -0400" stop="20200301084500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Athletico PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301084500 -0400" stop="20200301100000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301100000 -0400" stop="20200301123000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301123000 -0400" stop="20200301130000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301130000 -0400" stop="20200301160000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301160000 -0400" stop="20200301164500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Globo Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301164500 -0400" stop="20200301182500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301182500 -0400" stop="20200301183000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Rumo a Tóquio</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301183000 -0400" stop="20200301191500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301191500 -0400" stop="20200301211500 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Boavista x Chapecoense</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301211500 -0400" stop="20200301213000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301213000 -0400" stop="20200301233000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Náutico x Botafogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301233000 -0400" stop="20200302003000 -0400" channel="SPORTV 1 FULL HD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
