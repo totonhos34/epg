@@ -12,6 +12,10 @@
     <display-name lang="pt">SporTV 3</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="Fox Life">
+    <display-name lang="pt">Fox Life</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <programme start="20200228005000 -0400" stop="20200228010000 -0400" channel="SporTV">
     <title lang="pt">Rumo a Tóquio</title>
     <star-rating>
@@ -1278,6 +1282,582 @@
   </programme>
   <programme start="20200301230000 -0400" stop="20200302000000 -0400" channel="SporTV 3">
     <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228001400 -0400" stop="20200228010200 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228010200 -0400" stop="20200228014800 -0400" channel="Fox Life">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228014800 -0400" stop="20200228023500 -0400" channel="Fox Life">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228023500 -0400" stop="20200228032100 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228032100 -0400" stop="20200228040900 -0400" channel="Fox Life">
+    <title lang="pt">The Resident</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228040900 -0400" stop="20200228045900 -0400" channel="Fox Life">
+    <title lang="pt">Entre Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228045900 -0400" stop="20200228054900 -0400" channel="Fox Life">
+    <title lang="pt">Entre Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228054900 -0400" stop="20200228063500 -0400" channel="Fox Life">
+    <title lang="pt">Private Eyes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228063500 -0400" stop="20200228070000 -0400" channel="Fox Life">
+    <title lang="pt">Modern Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228070000 -0400" stop="20200228073000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228073000 -0400" stop="20200228080000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228080000 -0400" stop="20200228083000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228083000 -0400" stop="20200228090000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228090000 -0400" stop="20200228093000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228093000 -0400" stop="20200228100000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228100000 -0400" stop="20200228102800 -0400" channel="Fox Life">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228102800 -0400" stop="20200228112300 -0400" channel="Fox Life">
+    <title lang="pt">Entre Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228112300 -0400" stop="20200228122200 -0400" channel="Fox Life">
+    <title lang="pt">Private Eyes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228122200 -0400" stop="20200228131600 -0400" channel="Fox Life">
+    <title lang="pt">Private Eyes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228131600 -0400" stop="20200228140800 -0400" channel="Fox Life">
+    <title lang="pt">Proven Innocent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228140800 -0400" stop="20200228145900 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228145900 -0400" stop="20200228154900 -0400" channel="Fox Life">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228154900 -0400" stop="20200228164200 -0400" channel="Fox Life">
+    <title lang="pt">Private Eyes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228164200 -0400" stop="20200228173800 -0400" channel="Fox Life">
+    <title lang="pt">Proven Innocent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228173800 -0400" stop="20200228182900 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228182900 -0400" stop="20200228192000 -0400" channel="Fox Life">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228192000 -0400" stop="20200228201100 -0400" channel="Fox Life">
+    <title lang="pt">9-1-1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228201100 -0400" stop="20200228210000 -0400" channel="Fox Life">
+    <title lang="pt">9-1-1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228210000 -0400" stop="20200228215100 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228215100 -0400" stop="20200228224000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200228224000 -0400" stop="20200229003300 -0400" channel="Fox Life">
+    <title lang="pt">Sr. &amp; Sra. Smith</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229003300 -0400" stop="20200229012100 -0400" channel="Fox Life">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229012100 -0400" stop="20200229021000 -0400" channel="Fox Life">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229021000 -0400" stop="20200229025700 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229025700 -0400" stop="20200229034400 -0400" channel="Fox Life">
+    <title lang="pt">The Resident</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229034400 -0400" stop="20200229043300 -0400" channel="Fox Life">
+    <title lang="pt">Entre Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229043300 -0400" stop="20200229052200 -0400" channel="Fox Life">
+    <title lang="pt">Entre Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229052200 -0400" stop="20200229060800 -0400" channel="Fox Life">
+    <title lang="pt">Private Eyes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229060800 -0400" stop="20200229063300 -0400" channel="Fox Life">
+    <title lang="pt">Modern Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229063300 -0400" stop="20200229070000 -0400" channel="Fox Life">
+    <title lang="pt">The Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229070000 -0400" stop="20200229080000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229080000 -0400" stop="20200229083000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229083000 -0400" stop="20200229090000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229090000 -0400" stop="20200229093000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229093000 -0400" stop="20200229100000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229100000 -0400" stop="20200229102500 -0400" channel="Fox Life">
+    <title lang="pt">The Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229102500 -0400" stop="20200229105000 -0400" channel="Fox Life">
+    <title lang="pt">The Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229105000 -0400" stop="20200229111500 -0400" channel="Fox Life">
+    <title lang="pt">The Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229111500 -0400" stop="20200229114000 -0400" channel="Fox Life">
+    <title lang="pt">The Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229114000 -0400" stop="20200229120000 -0400" channel="Fox Life">
+    <title lang="pt">The Mick</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229120000 -0400" stop="20200229124500 -0400" channel="Fox Life">
+    <title lang="pt">Private Eyes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229124500 -0400" stop="20200229133000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229133000 -0400" stop="20200229141500 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229141500 -0400" stop="20200229150000 -0400" channel="Fox Life">
+    <title lang="pt">9-1-1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229150000 -0400" stop="20200229154500 -0400" channel="Fox Life">
+    <title lang="pt">9-1-1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229154500 -0400" stop="20200229163000 -0400" channel="Fox Life">
+    <title lang="pt">9-1-1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229163000 -0400" stop="20200229171500 -0400" channel="Fox Life">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229171500 -0400" stop="20200229180000 -0400" channel="Fox Life">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229180000 -0400" stop="20200229201500 -0400" channel="Fox Life">
+    <title lang="pt">Milagres do Paraíso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229201500 -0400" stop="20200229210000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229210000 -0400" stop="20200229214500 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229214500 -0400" stop="20200229223000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229223000 -0400" stop="20200229231500 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200229231500 -0400" stop="20200301000000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301000000 -0400" stop="20200301004500 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301004500 -0400" stop="20200301013000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301013000 -0400" stop="20200301021500 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301021500 -0400" stop="20200301030000 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301030000 -0400" stop="20200301034500 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301034500 -0400" stop="20200301043000 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301043000 -0400" stop="20200301051500 -0400" channel="Fox Life">
+    <title lang="pt">Remedy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301051500 -0400" stop="20200301060000 -0400" channel="Fox Life">
+    <title lang="pt">Entre Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301060000 -0400" stop="20200301070000 -0400" channel="Fox Life">
+    <title lang="pt">Entre Canibais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301070000 -0400" stop="20200301073000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301073000 -0400" stop="20200301080000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301080000 -0400" stop="20200301083000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301083000 -0400" stop="20200301090000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301090000 -0400" stop="20200301093000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301093000 -0400" stop="20200301100000 -0400" channel="Fox Life">
+    <title lang="pt">Infomercial</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301100000 -0400" stop="20200301102500 -0400" channel="Fox Life">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301102500 -0400" stop="20200301105000 -0400" channel="Fox Life">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301105000 -0400" stop="20200301111500 -0400" channel="Fox Life">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301111500 -0400" stop="20200301114000 -0400" channel="Fox Life">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301114000 -0400" stop="20200301120000 -0400" channel="Fox Life">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301120000 -0400" stop="20200301124500 -0400" channel="Fox Life">
+    <title lang="pt">Private Eyes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301124500 -0400" stop="20200301133000 -0400" channel="Fox Life">
+    <title lang="pt">9-1-1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301133000 -0400" stop="20200301141500 -0400" channel="Fox Life">
+    <title lang="pt">9-1-1</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301141500 -0400" stop="20200301150000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301150000 -0400" stop="20200301154500 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301154500 -0400" stop="20200301163000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301163000 -0400" stop="20200301171500 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301171500 -0400" stop="20200301180000 -0400" channel="Fox Life">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301180000 -0400" stop="20200301200000 -0400" channel="Fox Life">
+    <title lang="pt">O Melhor Amigo da Noiva</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301200000 -0400" stop="20200301215000 -0400" channel="Fox Life">
+    <title lang="pt">Meu Passado Me Condena 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301215000 -0400" stop="20200301232000 -0400" channel="Fox Life">
+    <title lang="pt">O Amuleto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200301232000 -0400" stop="20200302013000 -0400" channel="Fox Life">
+    <title lang="pt">Giovanni Improtta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
